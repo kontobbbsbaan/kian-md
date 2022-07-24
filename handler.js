@@ -33,11 +33,11 @@ module.exports = {
         //global.author = 'KIAN'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
         global.wm = '© KIAN BOTZ'
-        global.colong1 = 'Ciss 📸'
+        global.colong1 = 'PUNYA KIAN'
         global.colong2 = 'KIAN BOTZ'
         global.kontak2 = [
-        ['6283845409710', 'KIAN', 'JANGAN LUPA SAVE YA', 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', true],
-        ['6283845409710', await this.getName('6285736056578@s.whatsapp.net'), 'OWNER', 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', true], 
+        ['6283845409710', 'KIAN', 'JANGAN LUPA SAVE YA', 'https://youtube.com/channel/UCVHhUd4PRoKaL79lj3qbclQ', true],
+        ['6283845409710', await this.getName('6285736056578@s.whatsapp.net'), 'OWNER', 'https://youtube.com/channel/UCVHhUd4PRoKaL79lj3qbclQ', true], 
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
