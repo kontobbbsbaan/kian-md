@@ -37,7 +37,7 @@ global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓.
 
 //========Url Template Buttons=========//
 global.dtu = '𝑌𝑜𝑢𝑡𝑢𝑏𝑒'
-global.urlnya = "https://wa.me/message/R23F6S3OPNM4A1"
+global.urlnya = "https://youtube.com/channel/UCVHhUd4PRoKaL79lj3qbclQ"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
